@@ -1,0 +1,37 @@
+<svg width="100%" height="100%" viewBox="0 0 800 800" style="background-color:azure"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    
+
+
+  <ellipse cx="300" cy="470" rx="200" ry="230" />
+  <ellipse cx="300" cy="470" rx="180" ry="230" style="fill:white" />
+
+  <ellipse cx="100" cy="500" rx="50" ry="100" transform="rotate(20,100,500)" />
+  <ellipse cx="500" cy="500" rx="50" ry="100" transform="rotate(-20,500,500)" />
+
+
+  <ellipse cx="300" cy="300" rx="230" ry="180" />
+  <ellipse cx="300" cy="350" rx="220" ry="100" style="fill:white" />
+  <ellipse cx="170" cy="260" rx="70" ry="100" style="fill:white" transform="rotate(40,170,260)" />
+  <ellipse cx="430" cy="260" rx="70" ry="100" style="fill:white" transform="rotate(-40,430,260)" />
+
+  <ellipse cx="300" cy="350" rx="80" ry="50" style="fill:orange" />
+  <ellipse cx="300" cy="350" rx="80" ry="10" />
+  <ellipse cx="300" cy="345" rx="85" ry="10" style="fill:orange" />
+ 
+  <circle cx="200" cy="300" r="20" />
+  <circle cx="180" cy="340" r="15" style="fill:pink" />
+ 
+  <circle cx="400" cy="300" r="20" />
+  <circle cx="420" cy="340" r="15" style="fill:pink" />
+
+  <ellipse cx="200" cy="700" rx="80" ry="40" style="fill:orange" />
+  <ellipse cx="400" cy="700" rx="80" ry="40" style="fill:orange" />
+ 
+
+  </svg>
+
+
+
+
