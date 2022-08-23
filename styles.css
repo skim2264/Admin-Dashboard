@@ -19,6 +19,15 @@
 .header {
   grid-row: 1;
   grid-column: 2 / 4;
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+}
+
+.header-top,
+.header-bot {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
 }
 
 .main-content {
